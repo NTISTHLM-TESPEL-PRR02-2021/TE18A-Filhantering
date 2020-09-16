@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Platform xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <width>100</width>
+  <falling>true</falling>
+  <x>4</x>
+  <y>2</y>
+</Platform>
